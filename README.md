@@ -1,5 +1,5 @@
 **<h1>StudyCraze Online Education Platform (MERN App) [Website
-Link](https://studycraze.vercel.app/)</h1>**
+Link](https://e-learning-app-xi.vercel.app/)</h1>**
 
 <img src="./public/media/image1.png"
 style="width:4.17624in;height:6.37837in" />
